@@ -1,9 +1,9 @@
 return {
   -- Detect tabstop and shiftwidth automatically
-  'tpope/vim-sleuth',
+  "tpope/vim-sleuth",
 
-  'wakatime/vim-wakatime',
+  "wakatime/vim-wakatime",
 
   -- Useful plugin to show you pending keybinds.
-  { 'folke/which-key.nvim',          opts = {} },
+  { "folke/which-key.nvim", opts = {} },
 }
